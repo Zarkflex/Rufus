@@ -37,7 +37,7 @@ The type of the Dos attack is TCP Flood, the power of the attack will depend of 
 </p>
 
 <br>
-<strong>- No proxies so the victim will see your IP Address</strong>
+<strong>- No proxies will be used so the victim will see your IP Address</strong>
 <br><br>
 
 -----
