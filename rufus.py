@@ -151,7 +151,7 @@ def main():
     
     tui()
 
-    Rufus.dos(ip=ip, port=port, th=th)
+    Rufus.dos(ip=ip,77.131.42.68 port=port, th=th)
 
 
 
